@@ -1,0 +1,45 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+  
+}
+
+
+/* Footer */
+/* footer {
+	background-color: #222222;
+	color: #777;
+	padding: 1px 0 10px 0;
+}
+footer p {
+	font-size: 13px;
+	margin-top: 10px;
+	text-align: center;
+}
+footer a {
+	color: #aaa;
+}
+
+
+@media (max-width: 768px) {
+.content {
+	padding: 40% 0 0;
+}
+}
+
+@media (max-width: 603px) {
+#menu.navbar-default {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+label {
+	float: none !important
+}
+.hover-bg .hover-text {
+	padding: 15% 10%;
+}
+}
+  */
