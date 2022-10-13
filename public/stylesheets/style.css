@@ -22,6 +22,7 @@ footer p {
 	margin-top: 10px;
 	margin-left: 10px;
 	text-align: center;
+  font-family: 'Libre Baskerville', serif;
 }
 
 footer div{
@@ -35,14 +36,15 @@ footer i{
     color: #3ad2b6;
     font-size: 25px;
     margin: 0px 15px;
+    margin-bottom: 30px;
     /* filter: invert(1); */
 }
 footer a:hover{
-    background-color: rgb(245, 243, 243);
+    background-color: rgb(53, 36, 36);
 }
 footer i:hover{
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
     transition: ease-in 0.2s;
 	color: aquamarine;
 }

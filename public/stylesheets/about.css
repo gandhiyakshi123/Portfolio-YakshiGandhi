@@ -10,7 +10,7 @@ body {
 h1 {
   text-align: center;
   font-size: xx-large;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-weight: bolder;
 
 }
@@ -39,8 +39,8 @@ section {
 img {
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  width: 70%;
-}
+  width: 70%
+};
 
 
 .columnRight {
@@ -50,18 +50,45 @@ img {
 
 .columnRight h1 {
   font-size: 2vw;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .columnRight p {
   margin: 6px;
   font-size: 1vw;
-
+text-align: center;
+font-family: 'Libre Baskerville', serif;
 }
+
+.resume p{
+  margin: 6px;
+  font-size: 1vw;
+text-align: center;
+font-family: 'Libre Baskerville', serif;
+}
+
+.btn-default {
+	color: #ef114d;
+	border: 3px solid #ef114d;
+  font-family: 'Libre Baskerville', serif;
+	border-radius: 4px;
+    font-weight: bold;
+	margin: 0 8px;
+	font-size: 22px;
+	transition: all 0.5s;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
+	background-color: #ef114d;
+	border: 3px solid #ef114d;
+    font-family: 'Cinzel Decorative';
+	color: #eeeeee;
+} 
 
 h2 {
   text-align: center;
   font-size: large;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-weight: bolder;
 }
 
@@ -91,7 +118,7 @@ h2 {
 }
 
 .child p {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: medium;
   font-weight: bold;
 }
@@ -104,4 +131,5 @@ h2 {
 
 h3{
   border-bottom: 1px solid black;
+  font-family: 'Libre Baskerville', serif;
 }

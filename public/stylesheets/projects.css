@@ -4,11 +4,12 @@ body {
 }
 .projects-text{
   color: rgb(0, 0, 0);
+  font-family: 'Libre Baskerville', serif;
 }
 h1 {
   text-align: center;
   font-size: xx-large;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-weight: bolder;
 
 }
@@ -47,18 +48,21 @@ img{
 
 h2 {
   font-size: 2vw;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
 }
 
 h3 {
   text-align:justify;
   font-size: large;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-weight: bolder;
 }
 
 .projectContent p {
   margin: 6px;
   font-size: 1vw;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .btnToGit{
