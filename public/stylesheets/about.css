@@ -1,9 +1,12 @@
 /* About page Style */
 
 body {
+  color: #cfcfcf ;
   background-color: aquamarine;
 }
-
+.about-text{
+  color: black;
+}
 h1 {
   text-align: center;
   font-size: xx-large;
@@ -26,14 +29,11 @@ section {
   max-width: 100vw;
   padding: 20px;
   border-bottom: 1px solid black;
-  margin: 0;
+  place-items: center;
 }
 
 .columnLeft {
-
-  margin-bottom: 100%;
-  align-self: flex-start;
-  align-items: center;
+  align-self: center;
 }
 
 img {
@@ -46,7 +46,6 @@ img {
 .columnRight {
   margin-bottom: auto;
   text-align: center;
-
 }
 
 .columnRight h1 {
